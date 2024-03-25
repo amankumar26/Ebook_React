@@ -40,3 +40,7 @@ npm install react_dom
 2.Start the development server:
 
 npm start dev
+
+to check out website:
+
+https://meriebook.netlify.app/
